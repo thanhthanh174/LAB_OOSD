@@ -30,10 +30,6 @@ C# (.NET Framework) · Windows Forms · SQL Server · ADO.NET · StarUML
 
 4. Nhấn **F5** để chạy.
 
-## 🔄 Luồng nghiệp vụ
-
-Đăng ký → Cấp hồ sơ → Khám bệnh → Xét nghiệm → Lập toa thuốc → Thanh toán
-
 ## 👤 Thông tin
 
 - Họ tên: Đoàn Ngọc Phương Thanh
