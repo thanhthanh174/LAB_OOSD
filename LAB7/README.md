@@ -1,6 +1,6 @@
 # Quản lý nhân sự - Công ty sơn Đông Á
 
-Bài thực hành số 7 - Môn [tên môn học]
+Bài thực hành số 7 - Môn Phương pháp phát triển phần mềm hướng đối tượng
 
 - **Sinh viên:** Đoàn Ngọc Phương Thanh
 - **MSSV:** 1250080174
